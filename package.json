@@ -1,7 +1,7 @@
 {
   "name": "copy-highlighted",
   "main": "./lib/copy-highlighted",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Copy source code with syntax highlight",
   "keywords": [],
   "activationCommands": {
@@ -12,8 +12,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "clipboard-js": "^0.3.3",
     "fs-plus": "^3.0.0",
