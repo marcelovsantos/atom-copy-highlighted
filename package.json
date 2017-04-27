@@ -12,11 +12,12 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+      "clipboard-js": "^0.3.3",
+      "fs-plus": "^3.0.0",
+      "highlight.js": "^9.10.0",
+      "juice": "^4.0.2"
+  },
   "devDependencies": {
-    "clipboard-js": "^0.3.3",
-    "fs-plus": "^3.0.0",
-    "highlight.js": "^9.10.0",
-    "juice": "^4.0.2"
   }
 }
