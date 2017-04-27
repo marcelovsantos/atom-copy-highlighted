@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy Highlighted",
+        "command": "copy-highlighted:copy"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Copy Highlighted",
+          "submenu": [
+            {
+              "label": "Copy",
+              "command": "copy-highlighted:copy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

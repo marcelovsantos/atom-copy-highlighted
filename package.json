@@ -1,0 +1,23 @@
+{
+  "name": "copy-highlighted",
+  "main": "./lib/copy-highlighted",
+  "version": "0.0.0",
+  "description": "Copy source code with syntax highlight",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "copy-highlighted:copy"
+  },
+  "repository": "https://github.com/marcelovsantos/atom-copy-highlighted",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "clipboard-js": "^0.3.3",
+    "fs-plus": "^3.0.0",
+    "highlight.js": "^9.10.0",
+    "juice": "^4.0.2"
+  }
+}
