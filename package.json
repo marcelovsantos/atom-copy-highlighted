@@ -15,7 +15,7 @@
   "dependencies": {
     "clipboard-js": "^0.3.3",
     "fs-plus": "^3.0.0",
-    "highlight.js": "^9.10.0",
+    "highlight.js": "^9.12.0",
     "juice": "^4.0.2"
   },
   "devDependencies": {}
