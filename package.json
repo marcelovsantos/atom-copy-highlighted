@@ -1,7 +1,7 @@
 {
   "name": "copy-highlighted",
   "main": "./lib/copy-highlighted",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Copy source code with syntax highlight",
   "keywords": [],
   "activationCommands": {
